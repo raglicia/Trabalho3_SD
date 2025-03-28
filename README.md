@@ -88,7 +88,8 @@ O servidor estará rodando em http://localhost:5000
 
  O nome da imagem, filtro aplicado e data/hora são registrados no SQLite
 
-##VIDEO
-[Baixar vídeo](video.mp4)
+#VIDEO
+[Assista ao vídeo aqui](https://github.com/raglicia/Trabalho3_Sd/blob/main/demostra%C3%A7%C3%A3o%20trabalho%2003%20sistemas%20distribuidos.mp4)
+
 
 ---
